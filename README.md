@@ -1,1 +1,2 @@
-# BreastCancerApplication
+# HeartDiseaseApplication
+This application uses a dataset containing information about heart disease documentation. It details knowledge like types of chest pain, age , sex, cholesterol, Heart Rate, BPM while resting, Blood sugar while resting, ECG while resting, etc. The application provides users with vital information about heart diseases. The app can use different visuals such as pie charts, scatter plots etc to better break down the information for the user. 
